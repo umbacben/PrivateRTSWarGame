@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-05-12T09:42:04.396+02:00
-  initializedAtString: 2020-05-12T09:42:03.483+02:00
+  lastUpdatedAtString: 2020-05-29T09:40:04.286+02:00
+  initializedAtString: 2020-05-29T09:40:04.286+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/umbacben/PrivateRTSWarGame.git

@@ -1,0 +1,2 @@
+C:\Users\umbac\Documents\Repos\PrivateRTSWarGame\PrivateRTSWarGame\RTSGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\umbac\Documents\Repos\PrivateRTSWarGame\PrivateRTSWarGame\RTSGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
